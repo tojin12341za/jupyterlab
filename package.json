@@ -103,6 +103,6 @@
     "react-docgen-typescript-loader": "^3.7.2",
     "shell-quote": "^1.7.2",
     "typedoc": "next",
-    "yarn": "1.21.1"
+    "yarn": "1.22.0"
   }
 }
